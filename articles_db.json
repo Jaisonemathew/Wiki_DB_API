@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "63b823219212aa15c0652f64"
+  },
+  "content": "REST stands for representational state transfer",
+  "title": "REST"
+},{
+  "_id": {
+    "$oid": "63b92a6d0f3e785bcf1c6c6d"
+  },
+  "title": "API",
+  "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer"
+},{
+  "_id": {
+    "$oid": "63b92b160f3e785bcf1c6c6f"
+  },
+  "title": "Bootstrap",
+  "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+},{
+  "_id": {
+    "$oid": "63b92b3a0f3e785bcf1c6c70"
+  },
+  "title": "DOM",
+  "content": "The Document Object Model is like an API for interacting with our HTML"
+},{
+  "_id": {
+    "$oid": "63b96bb7df7aa1b058353bc8"
+  },
+  "title": "css",
+  "content": "cascading style sheet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b96d7dd3c42f3957653271"
+  },
+  "title": "HTML",
+  "content": "Hyper Text Markup Language",
+  "__v": 0
+}]
